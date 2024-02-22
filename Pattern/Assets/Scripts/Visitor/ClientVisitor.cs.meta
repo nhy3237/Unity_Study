@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 528eaddfddabf8540ba65ef2d2ef9517
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enginePowerUp: {fileID: 11400000, guid: 3f9de84f4d95b3243841108f67b34e91, type: 2}
+  - shieldPowerUp: {fileID: 11400000, guid: 3f9de84f4d95b3243841108f67b34e91, type: 2}
+  - weaponPowerUp: {fileID: 11400000, guid: 3f9de84f4d95b3243841108f67b34e91, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
